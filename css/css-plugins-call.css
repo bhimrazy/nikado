@@ -1,0 +1,25 @@
+/* ===============================================
+    All CSS Plugins Called Here
+=============================================== */
+
+/* CSS Plugins */
+@import 'css-plugins/nice-select.css';
+@import 'css-plugins/owl.carousel.min.css';
+@import 'css-plugins/animate.min.css';
+@import 'css-plugins/easyzoom.css';
+@import 'css-plugins/jquery-ui.min.css';
+@import 'css-plugins/slick.css';
+@import 'css-plugins/meanmenu.min.css';
+
+
+/* Font Icon */
+@import 'font-awesome.min.css';
+@import 'material-design-iconic-font.min.css';
+
+
+
+
+
+
+
+
